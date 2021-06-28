@@ -1,0 +1,3 @@
+[submodule "client_sub"]
+	path = client_sub
+	url = https://github.com/KoaChu/mern-web-client-sub.git
